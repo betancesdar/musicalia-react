@@ -1,2 +1,2 @@
 # musicalia-react
-Front end and api powered by spotiftu
+Front end and api powered by spotify
